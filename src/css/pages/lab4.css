@@ -1,0 +1,52 @@
+#content {
+    background: url("../../assets/images/lab4/bg_page.png") repeat-y center #fef8ac;
+    width: 750px;
+    margin: 0 auto;
+}
+
+#banner img{
+    max-height: 100%;
+    width: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+h1, h2, h3 {
+    font: bold 20px 'Baskerville', 'Palatino Linotype', Times, serif;
+    color: #ac8320;
+    border-top: 3px solid #8a8f55;
+    margin-bottom: 20px;
+    padding-left: 100px;
+}
+
+h1 {
+    font-size: 35px;
+    padding-top: 10px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+p {
+    font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+}
+
+p:nth-child(3) {
+    font-size: 19px;
+    color:#e1901f;
+    line-height: 150%;
+}
+
+.advice {
+    background-color:#fbf8ab;
+    border: 2px dashed #c48a2c;
+    padding: 20px;
+    margin: 30px 0px 30px 100px
+}
+
+.advice strong {
+    font-weight: bold;
+    color: #e80e0e;
+}
