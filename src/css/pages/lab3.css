@@ -1,0 +1,41 @@
+body {
+    background: url("../../assets/images/lab3/bg_body.png") #97bde1 repeat-x;
+}
+
+h1 {
+    margin-top: 140px;
+    font: 80px 'Arial Black', Arial, sans-serif;
+    color: blue;
+}
+
+h2 {
+    padding-left: 100px;
+    height: 50px;
+    font: bold 25px 'Times New Roman', Times, serif;
+    color: #295294;
+    background: url("../../assets/images/lab3/bg_h2.png") no-repeat;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid white;
+}
+
+p {
+    margin-left: 90px;
+    font-size: 15px;
+}
+
+.intro {
+    margin-left: 0;
+    color: #295294;
+}
+
+pre {
+    margin-left: 100px;
+    color: #295294;
+}
+
+address {
+    text-align: center;
+    font-size: 16px;
+    color: blue;
+}
